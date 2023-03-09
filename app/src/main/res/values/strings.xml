@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hisham Chat Bot</string>
+    <string name="generate_messages">Generate Messages</string>
+    <string name="stop_service">Stop Service</string>
+
+    <string name="type_a_message">Type a message</string>
+    <string name="validation_name">Please Fill Your Name</string>
+
+</resources>
